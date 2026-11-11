@@ -1,4 +1,4 @@
-# Keeling Curve: Linear or not?
+# Keeling Curve
 
 Presentation for DSM-101/102 Project 4: the Mauna Loa CO₂ record (NOAA GML, monthly means since March 1958), modelled with a straight line, a polynomial trend with yearly harmonics, and an exponential trend.
 
