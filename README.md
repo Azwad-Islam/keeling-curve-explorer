@@ -1,5 +1,7 @@
 # Keeling Curve
 
+**[Open the presentation](https://azwad-islam.github.io/keeling-curve-explorer/presentation.html)**
+
 Presentation for DSM-101/102 Project 4: the Mauna Loa CO₂ record (NOAA GML, monthly means since March 1958), modelled with a straight line, a polynomial trend with yearly harmonics, and an exponential trend.
 
 Its last slide embeds the interactive forecaster from `index.html`.
